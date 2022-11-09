@@ -25,7 +25,9 @@ public class Controlst {
               System.out.println("negative");
           }
           else {
-            System.out.println("zero");
+            System.out.print("zero");
+            System.out.print("zero");
+            System.out.println("vivek changes");
         }
       }
 

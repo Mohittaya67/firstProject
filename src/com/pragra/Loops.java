@@ -5,6 +5,7 @@ public class Loops {
         for (int mohit = 2; mohit <= 5; mohit++) {
             if (mohit % 2 == 1) {
                 System.out.println(mohit);
+                System.out.println("Pushpinder");
             }
         }
     }

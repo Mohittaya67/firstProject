@@ -6,6 +6,7 @@ public class Loops {
             if (mohit % 2 == 1) {
                 System.out.println(mohit);
                 System.out.println("Pushpinder");
+                System.out.println("Mohit Changes");
             }
         }
     }
